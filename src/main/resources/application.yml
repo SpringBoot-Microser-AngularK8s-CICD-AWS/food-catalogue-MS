@@ -1,4 +1,4 @@
-#all microservices work on the port 9091
+
 server:
   port: 9092
 
